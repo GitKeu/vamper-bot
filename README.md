@@ -1,1 +1,0 @@
-# vamper-bot
